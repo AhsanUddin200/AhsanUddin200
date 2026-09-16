@@ -16,12 +16,15 @@ I build software for business operations, with a focus on **Odoo ERP, inventory 
 - Integrating WhatsApp Business and other third-party services
 - Deploying applications with Docker, Linux, and Nginx
 
-### Featured public work
+### Explore my work
 
 | Project | What you'll find |
 | --- | --- |
-| [Developer portfolio](https://github.com/AhsanUddin200/ahsanuddin-portfolio-2026) | React portfolio with ERP case study pages and project details. [View live site](https://ahsannasir.runs-on.dev/). |
-| [RideAllay web](https://github.com/AhsanUddin200/RideAllay-web) | A Next.js service website interface with service and contact sections. |
+| [Warehouse ERP case study](https://ahsannasir.runs-on.dev/projects/warehouse-erp) | Warehouse and inventory work, presented on my portfolio. |
+| [Financial management case study](https://ahsannasir.runs-on.dev/projects/financial-management) | Business finance workflow work, presented on my portfolio. |
+| [Restaurant ERP case study](https://ahsannasir.runs-on.dev/projects/restaurant-erp) | Restaurant operations work, presented on my portfolio. |
+| [Portfolio source](https://github.com/AhsanUddin200/ahsanuddin-portfolio-2026) | The React application behind my portfolio. |
+| [RideAllay web](https://github.com/AhsanUddin200/RideAllay-web) | A Next.js service website interface. |
 
 **Tools I use:** Odoo · Python · PostgreSQL · JavaScript · React · REST APIs · Docker · Linux · Nginx
 
