@@ -1,43 +1,25 @@
 # Hi, I'm Ahsan Uddin 👋
 
-I'm a **Software Engineer, Odoo ERP Developer, and Full-Stack Developer**.
+**Software Engineer · Odoo ERP Developer · Full-Stack Developer**
 
-I build business applications, custom Odoo modules, ERP solutions, APIs, integrations, and automation systems.
+I build practical business software: custom Odoo workflows, ERP integrations, APIs, and web applications. My current work focuses on Odoo 19, warehouse and inventory processes, WhatsApp Business integration, and deployment on Linux servers.
 
-## About Me
+### What I work with
 
-- Odoo ERP Development
-- Custom Odoo Modules
-- Python Development
-- PostgreSQL
-- REST APIs
-- WhatsApp Integrations
-- Full-Stack Web Development
-- Docker & Linux Deployment
+- **ERP:** Odoo, Python, PostgreSQL, XML, JavaScript
+- **Web:** React, HTML, CSS, REST APIs
+- **Deployment:** Docker, Linux, Nginx
 
-## Technologies
+### Explore my work
 
-`Odoo` `Python` `PostgreSQL` `JavaScript` `React` `HTML` `CSS` `Docker` `Linux` `Nginx` `Git`
+- [Portfolio and selected projects](https://ahsannasir.runs-on.dev/)
+- [Portfolio source code](https://github.com/AhsanUddin200/ahsanuddin-portfolio-2026)
+- [All public repositories](https://github.com/AhsanUddin200?tab=repositories)
 
-## Current Focus
+Many of my Odoo projects are developed for business use. I share public code here when it is ready to be reused or studied.
 
-Currently working on:
+### Connect
 
-- Odoo 19 Development
-- ERP Automation
-- WhatsApp Business Integration
-- Inventory & Warehouse Systems
-- API Integrations
-- Business Web Applications
+[LinkedIn](https://www.linkedin.com/in/ahsan-uddin-b16b72227/) · [Portfolio](https://ahsannasir.runs-on.dev/) · [Email](mailto:ahsanuddin160@gmail.com)
 
-## Connect With Me
-
-Portfolio: https://ahsannasir.runs-on.dev/
-
-LinkedIn: https://www.linkedin.com/in/ahsan-uddin-b16b72227/
-
-GitHub: https://github.com/AhsanUddin200
-
----
-
-If you like my work, feel free to **follow me** and ⭐ my repositories.
+If something here helps you, feel free to star the repository or follow my work.
