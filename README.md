@@ -10,10 +10,11 @@ I build software for business operations, with a focus on **Odoo ERP, inventory 
 
 ### What I'm working on
 
-- Custom Odoo 19 modules and ERP workflows
-- Warehouse, inventory, and business process automation
-- WhatsApp Business and API integrations
-- React interfaces and Linux deployments
+- Developing and customizing Odoo across versions, including module development, migration, and ERP workflows
+- Building full-stack web applications with frontend interfaces, backend APIs, and databases
+- Creating warehouse, inventory, and business process automation solutions
+- Integrating WhatsApp Business and other third-party services
+- Deploying applications with Docker, Linux, and Nginx
 
 ### Featured public work
 
